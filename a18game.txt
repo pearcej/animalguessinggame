@@ -1,0 +1,18 @@
+Question:
+Does the animal have hooves?
+no
+yes
+
+Guess:
+Elephant
+
+Question:
+Does the animal have stripes?
+no
+yes
+
+Guess:
+Horse
+
+Guess:
+Zebra
